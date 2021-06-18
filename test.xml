@@ -5,18 +5,15 @@
 	<poits> 9 10 11 </poits>
 	<poits> 12 13 14 </poits>
 </task1>
-<task2>
-	<poits> 1 3 3 </poits>
-	<poits> 1 3 3 </poits>
-	<poits> 1 2 3 </poits>
-	<tools>
-		<s>3</s>
-		<v>3</v>
-		<b>3</b>
-	</tools>
-</task2>
 <task2 name="task2">
 	<poits> 2 2 2 </poits>
 	<poits> 2 2 2 </poits>
 	<poits> 2 2 2 </poits>
 </task2>
+<task1>
+	<poits> 2 3 4 </poits>
+	<poits> 4 5 6 </poits>
+	<poits> 6 7 8 </poits>
+	<poits> 9 10 11 </poits>
+	<poits> 12 13 14 </poits>
+</task1>
