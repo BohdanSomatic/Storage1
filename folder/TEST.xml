@@ -1,0 +1,22 @@
+<task1>
+	<poits> 1 2 3 </poits>
+	<poits> 1 2 3 </poits>
+	<poits> 1 2 3 </poits>
+	<poits> 1 2 3 </poits>
+	<poits> 1 2 3 </poits>
+</task1>
+<task2>
+	<poits>conflict</poits>
+	<poits>conflict</poits>
+	<poits> kek </poits>
+	<tools>
+		<s>1</s>
+		<v>0</v>
+		<b>0</b>
+	</tools>
+</task2>
+<task2 name="task2">
+	<poits> 3 2 3 </poits>
+	<poits> 3 2 3 </poits>
+	<poits> 3 2 3 </poits>
+</task2>
