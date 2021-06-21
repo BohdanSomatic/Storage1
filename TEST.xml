@@ -7,7 +7,7 @@
 </task1>
 <task2>
 	<poits> 1 2 3 </poits>
-	<poits> 1 2 3 </poits>
+	<poits> conflict </poits>
 	<poits> 1 2 3 </poits>
 	<tools>
 		<s>1</s>
